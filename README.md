@@ -33,8 +33,7 @@ cd Imad.Merimache
 
 ls
 
+mv Mafia_7x Mafia_7x.py
 
-mv ImAd ImAd.py
 
-
-python2 ImAd.py
+python2 Mafia_7x.py
