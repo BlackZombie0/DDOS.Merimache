@@ -25,8 +25,8 @@ __ |     / /___________      ___  __ \__  __ \_  __ \_  ___/
 __ | /| / /_  _ \_  __ \     __  / / /_  / / /  / / /____ \ 
 __ |/ |/ / /  __/  / / /     _  /_/ /_  /_/ // /_/ /____/ / 
 ____/|__/  \___//_/ /_/      /_____/ /_____/ \____/ /____/
-              Script By     =>  Imad.Merimache
-              Like & Follow =>  The Zodiac
+              Script By     =>  Mafia_7x
+                 A gift from=>  ANtqAmE
 ============================================================
 """)
 print(" ")
@@ -34,8 +34,8 @@ ip = raw_input("\033[94m[*] \033[91mIP \033[91mTarget \033[97m>>> \033[93m ")
 port = input("\033[94m[*] \033[91mPORT \033[97m>>> \033[93m ")
 
 os.system("clear")
-print(" WenDDos Ready to Attack.. OK!! ")
-print(" WenDDos Ready to Attack.. OK!! ")
+print(" Mafia7x Ready to Attack.. OK!! ")
+print(" Mafia7x Ready to Attack.. OK!! ")
 print(" 8======D     15% ") 
 time.sleep(5)
 print(" 8=============D      25% ") 
