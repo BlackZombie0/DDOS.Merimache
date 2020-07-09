@@ -35,4 +35,4 @@ ls
 
 
 
-python2 Mafia_7x.py
+python2 ddos.py
