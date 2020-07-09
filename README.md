@@ -25,10 +25,10 @@ apt install python3
 apt install git
 
 
-git clone https://github.com/MoussaUfonet/Imad.Merimache.git
+git clone https://github.com/spyeye-dz/DDOS.Merimache
 
 
-cd Imad.Merimache
+cd DDOS.Merimache
 
 
 ls
