@@ -1,4 +1,4 @@
-# Mafia_7x
+# DDOS.Merimache
 
 
 Salut comment allez-vous aujourd'hui j'ai un outil d'attaque DOS
@@ -33,7 +33,6 @@ cd Imad.Merimache
 
 ls
 
-mv Mafia_7x Mafia_7x.py
 
 
 python2 Mafia_7x.py
